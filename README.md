@@ -9,7 +9,24 @@ Si quieres contribuir a nuestro proyecto, tienes que seguir los siguientes pasos
 3. Envia un PRI""!
 4. Revisaremos tu PR tan pronto como podamos.Agradecemos mucho tu ayuda!
 
-##Instalacion
+## Instalacion
 
 Necesitaras las siguientes herramientas para poder ejecutar el proyecto:
--N
+- Node.js 6.5+
+- MySQL 8+
+- Angular cli
+- Angular 8.x
+- Ionic 2.x
+
+## Ejecutar el proyecto
+
+Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
+
+gh repo clone <repo>
+  
+Despues de ello, entra a nuestro proyecto y ejecutalo:
+
+npm start
+  
+## Progreso
+  
