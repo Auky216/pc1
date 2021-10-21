@@ -2,7 +2,7 @@
 
 es una aplicacion creada para ayudar a las personas a lograr cosas asombrosas!
 
-![Aquí la descripción de la imagen por si no carga]https://preview.redd.it/sk9nb6lgccq31.gif?format=png8&s=4314adede1e763a54cb4b435e3d246da0460d3ae
+![Aquí la descripción de la imagen por si no carga](https://github.com/Auky216/pc1/blob/2f2796bfe40176bcbf060cc9c99fe9e5acba4374/imagen.png)
 
 ## Contribuir
 
